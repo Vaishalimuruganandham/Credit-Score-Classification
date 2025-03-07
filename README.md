@@ -62,7 +62,7 @@ This project involves building a classification model using machine learning tec
 - Deploy the model as an API for real-time classification.
 
 ## Author
-Vaish
+Vaishali
 
 ## License
 This project is licensed under the MIT License.
